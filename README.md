@@ -36,13 +36,16 @@ TODOs
 
 Eure erste Aufgabe is die folgende: eine entsprechende Klasse erstellen die ein Eintrag in
 der Tabelle modelliert (aufgepasst bei den Datentypen). Danach sollt ihr die Datei dementsprechen parsen
-und eine Liste von Objekte vom den von euch erstellten Typ bauen.
+und eine Liste von Objekte von dem von euch erstellten Typ bauen.
 
-Danach wiel der Kunde folgendes:
+Danach will der Kunde folgendes:
 * Findet den Distrikt mit der größten, bzw kleinster Bevölkerung
 * Findet den durchschnittlichen Alter und durschnittlichen Einnahmen der Einwohner
 * Die Spalte ocean_proximity ist ein kategorischer Attribut. Auf dieser Spalte erscheinen nämlich
 nur 5 verschiedene Werte. Identifiziert diese und die Anzahl von Distrikte aus jeder Kategorie
+* Report erstellen: sie erhalten von den Kunden ein Intervall für **latitude, longitude** und **median_house_value**. Erstellt in einer 
+anderen Textdatei ein Report mit allen Distrikte die dieser Kriterien entsprechen. Gibt eine Fehlermeldung an falls es keine Distrikte gibt die de angegebenen Kriterien entsprechen. Die Werte sollen durch ein Leerzeichen getrennt werden.
+* 
 
 Anforderungen
 -------------
