@@ -45,7 +45,8 @@ Danach will der Kunde folgendes:
 nur 5 verschiedene Werte. Identifiziert diese und die Anzahl von Distrikte aus jeder Kategorie
 * Report erstellen: sie erhalten von den Kunden ein Intervall für **latitude, longitude** und **median_house_value**. Erstellt in einer 
 anderen Textdatei ein Report mit allen Distrikte die dieser Kriterien entsprechen. Gibt eine Fehlermeldung an falls es keine Distrikte gibt die de angegebenen Kriterien entsprechen. Die Werte sollen durch ein Leerzeichen getrennt werden.
-* 
+
+
 
 Anforderungen
 -------------
